@@ -1,0 +1,27 @@
+.InfoBox{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.InfoBox .MuiCard-root{
+    border-radius: 15px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
+}
+
+.InfoBox .MuiCardContent-root{
+    padding: 20px !important;
+}
+
+.InfoBox h2{
+    margin-bottom: 15px !important;
+    font-weight: 600 !important;
+}
+
+.InfoBox p{
+    margin: 12px 0px !important;
+    line-height: 1.8 !important;
+    letter-spacing: 0.4px;
+    font-size: 16px !important;
+    color: #444;
+}
