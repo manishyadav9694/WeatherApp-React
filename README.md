@@ -1,4 +1,5 @@
 # WeatherApp-React
+
 # 🌦️ Weather App — React.js & Material UI
 
 A modern, responsive weather application built with **React.js and Material UI** that allows users to check real-time weather information for cities around the world.
