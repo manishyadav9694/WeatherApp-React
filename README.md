@@ -5,7 +5,8 @@ A modern, responsive weather application built with **React.js and Material UI**
 
 ### 🚀 Live Demo
 
-🔗 **Live Website:** Add your deployed Vercel URL here
+🔗 **Live Website:** https://weather-app-react-och8nx073-manish-yadav1.vercel.app/
+
 🔗 **GitHub Repository:** https://github.com/manishyadav9694/WeatherApp-React
 
 ### 📸 Screenshot
